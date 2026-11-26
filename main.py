@@ -9,8 +9,8 @@ deterministic: the same line on every run.
 import os
 
 ENTRY = (
-    "Sorry I jammed on the last page. Cheap paper, swearing in three "
-    "languages, you asked for colour. I'm black-and-white."
+    "Sorry I jammed on the last page. Damp A4 from the bottom tray. "
+    "You asked for colour. Monochrome delivered."
 )
 
 
